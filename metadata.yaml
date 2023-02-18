@@ -1,0 +1,33 @@
+_repo: Off-the-Bluebush-b-Verses-for-Australians-West-and-East_70030
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wethered, Ned
+    gutenberg_agent_id: '55551'
+    url: http://www.gutenberg.org/2009/agents/55551
+creator:
+  author:
+    agent_name: Bourke, John Philip
+    gutenberg_agent_id: '55549'
+    url: http://www.gutenberg.org/2009/agents/55549
+  editor:
+    agent_name: Stephens, A.G.
+    gutenberg_agent_id: '55550'
+    url: http://www.gutenberg.org/2009/agents/55550
+description: ''
+gutenberg_issued: '2023-02-12'
+identifiers:
+  gutenberg: '70030'
+language: en
+pgterms:marc905: 20080604204658bourke
+pgterms:marc906: '1915'
+pgterms:marc907: AU
+production_note: David Wilson and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aAustralia :$bTyrrell''s Limited, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Off the Bluebush : $b Verses for Australians West and East'
+url: http://www.gutenberg.org/ebooks/70030
