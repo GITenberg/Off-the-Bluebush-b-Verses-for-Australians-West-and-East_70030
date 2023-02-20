@@ -5,6 +5,9 @@ contributor:
     agent_name: Wethered, Ned
     gutenberg_agent_id: '55551'
     url: http://www.gutenberg.org/2009/agents/55551
+covers:
+- cover_type: archival
+  image_path: 70030-h/images/cover.jpg
 creator:
   author:
     agent_name: Bourke, John Philip
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '55550'
     url: http://www.gutenberg.org/2009/agents/55550
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70030#Off-the-Bluebush-b-Verses-for-Australians-West-and-East
 gutenberg_issued: '2023-02-12'
 identifiers:
   gutenberg: '70030'
